@@ -24,3 +24,10 @@
 - USDT(TRC20) wallet: TB8meT4Pm9KFXRJ8SNCfxx4yBGPbk3Ekip
 
   <div style="text-align: center; width: 500px; border: green solid 1px;"><img src="https://img.mdev.eu.org/file/5bda398b80a9ce195b72c.png"></div>
+
+### itdog.cn test
+
+<img src="https://img.mdev.eu.org/file/3264671ad7801e86649e7.png">
+
+
+### BenchMark
